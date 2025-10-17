@@ -1,0 +1,7 @@
+{
+    "require": {
+        "razorpay/razorpay": "2.*",
+        "rmccue/requests": "^2.0",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
